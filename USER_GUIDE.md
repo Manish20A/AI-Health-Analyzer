@@ -8,7 +8,7 @@ The **AI Health Analyzer** is an interactive web application that helps you unde
 
 ## How to Use
 
-1. Open the web app: `[http://127.0.0.1:5000](https://ai-health-analyzer-hn448rptzazhzrkpj5ozri.streamlit.app/#feature-importance)`
+1. Open the web app: https://ai-health-analyzer-hn448rptzazhzrkpj5ozri.streamlit.app/#feature-importance
 2. Fill in the input form:
    - **Age**: Enter your age in years.
    - **Gender**: Select Male or Female.
